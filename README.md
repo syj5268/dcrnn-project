@@ -2,7 +2,7 @@
 
 ## Preprocessing
 'generate_training_data.py' : speed data 전처리 <br>
-**gen_adj_mx.py** : adjacency matrix 전처리
+'gen_adj_mx.py' : adjacency matrix 전처리
 
 ## Model
 **model/dcrnn_cell.py** <br>
