@@ -17,4 +17,6 @@
 `run_pytorch.py` : 모델 학습 <br>
 `appendix.ipynb` : 결과값 확인
 
-Reference: https://github.com/chnsh/DCRNN_PyTorch
+## Reference
+* https://github.com/chnsh/DCRNN_PyTorch
+* https://github.com/liyaguang/DCRNN
